@@ -3,8 +3,8 @@
   top: 200px; /* Ajusta la posición vertical */
   left: 50%; /* Centra horizontalmente */
   transform: translateX(-50%); /* Ajusta la posición para centrar correctamente */
-  width: 200px; /* Ajusta el tamaño según sea necesario */
-  height: 200px; /* Ajusta el tamaño según sea necesario */
+  width: 400px; /* Ajusta el tamaño según sea necesario */
+  height: 400px; /* Ajusta el tamaño según sea necesario */
   z-index: 10; /* Asegúrate de que esté por encima de otros elementos */
   overflow: hidden;
 }
